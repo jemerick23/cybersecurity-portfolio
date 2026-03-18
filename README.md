@@ -21,6 +21,7 @@ Focused on building hands-on security skills through lab environments and threat
 
 ## Current Labs
 
-- Network Recon Lab (Kali + Nmap)
-- Vulnerability Scanning Lab
-- SIEM Detection Lab
+- [Network Reconnaissance Lab](network-recon-lab)
+- [Vulnerability Scanning Lab](vulnerability-scanning-lab)
+- [SIEM Detection Lab](siem-detection-lab)
+
