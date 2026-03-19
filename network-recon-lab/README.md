@@ -68,6 +68,3 @@ This lab demonstrates the importance of:
 
 These techniques are foundational for both defensive security monitoring and offensive security assessments.
 
-## Status
-
-Lab setup in progress.
