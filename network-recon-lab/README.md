@@ -1,6 +1,6 @@
-# Network Reconnaissance Lab
+# Network Reconnaissance Lab (Kali Linux + Nmap)
 
-This lab demonstrates network reconnaissance techniques using Kali Linux and Nmap. The objective was to identify active hosts, validate target systems, enumerate services, and analyze security exposure on a local network.
+This lab simulates a real-world network reconnaissance scenario using Kali Linux and Nmap to identify active hosts, enumerate services, and assess potential security exposure within a local environment. The objective was to identify active hosts, validate target systems, enumerate services, and analyze security exposure on a local network.
 
 ## Objective
 
@@ -83,6 +83,8 @@ The comparison between the two systems highlights the impact of configuration an
 - The lab system demonstrates a hardened posture with minimal network visibility
 - Network reconnaissance can reveal critical system details even without exploitation
 
+Findings were documented and structured to reflect a real-world security assessment workflow, emphasizing both discovery and risk interpretation.
+
 ### Conslusion
 
 This lab demonstrates the importance of:
@@ -92,5 +94,4 @@ This lab demonstrates the importance of:
 - Understanding network exposure
 - Comparing system security posture
 
-These techniques are foundational for both defensive security monitoring and offensive security assessments.
-
+These findings were documented and structured to reflect a real-world security assessment workflow, emphasizing both discovery and risk interpretation.
