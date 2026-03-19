@@ -29,6 +29,32 @@ An identified host (192.168.1.100) was scanned to enumerate open ports, services
 
 A confirmed lab system (HOME-SOC-1) was scanned to compare security posture.
 
+## Visual Evidence
+
+### Network Validation
+![Network Validation](screenshots/00-network-validation.png)
+
+### Kali System Identification
+![Kali IP Address](screenshots/01-kali-ip-address.png)
+
+### Network Discovery (Ping Sweep)
+![Network Discovery](screenshots/02-nmap-network-discovery.png)
+
+### Port Scan Results
+![Port Scan](screenshots/03-nmap-port-scan.png)
+
+### Service Enumeration
+![Service Detection](screenshots/04-nmap-service-detection.png)
+
+### OS Detection
+![OS Detection](screenshots/05-nmap-os-detection.png)
+
+### Aggressive Scan (Discovered Host)
+![Aggressive Scan](screenshots/06-nmap-aggressive-scan.png)
+
+### Aggressive Scan (Lab Host - HOME-SOC-1)
+![Lab Host Scan](screenshots/07-home-soc-1-aggressive-scan.png)
+
 ## Key Findings
 
 ### Discovered Host (192.168.1.100)
